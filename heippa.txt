@@ -2,3 +2,4 @@ hauskaa tektiä
 pari kolme riviä
 nih
 juu
+uusi rivi
